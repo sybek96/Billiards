@@ -1,0 +1,81 @@
+L:\onedrive\Maths\vs2013 Labs\Lab 7\lab7 starter1\lab7 starter1\bin\Debug\practicle0301.exe
+L:\onedrive\Maths\vs2013 Labs\Lab 7\lab7 starter1\lab7 starter1\bin\Debug\practicle0301.pdb
+L:\onedrive\Maths\vs2013 Labs\Lab 7\lab7 starter1\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+L:\onedrive\Maths\vs2013 Labs\Lab 7\lab7 starter1\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+L:\onedrive\Maths\vs2013 Labs\Lab 7\lab7 starter1\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+L:\onedrive\Maths\vs2013 Labs\Lab 7\lab7 starter1\lab7 starter1\obj\x86\Debug\practicle0301.exe
+L:\onedrive\Maths\vs2013 Labs\Lab 7\lab7 starter1\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+I:\KCCGD_B_Y1\Applied Maths\labs\Lab 7\lab7 starter1\lab7 starter1\obj\x86\Debug\practicle0301.exe
+I:\KCCGD_B_Y1\Applied Maths\labs\Lab 7\lab7 starter1\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\practicle0301.exe
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\bin\Debug\practicle0301.exe
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\bin\Debug\practicle0301.pdb
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+F:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\practicle0301.exe
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\bin\Debug\practicle0301.exe
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\bin\Debug\practicle0301.pdb
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+D:\Applied maths\Lab7SebastianKruzel\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\obj\x86\Debug\practicle0301.exe
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\bin\Debug\practicle0301.exe
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\bin\Debug\practicle0301.pdb
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+E:\Applied maths\Lab7SebastianKruzelPart1\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\practicle0301.exe
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\practicle0301.exe
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\bin\Debug\practicle0301.exe
+F:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\bin\Debug\practicle0301.pdb
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\practicle0301.exe
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\bin\Debug\practicle0301.exe
+D:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\bin\Debug\practicle0301.pdb
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\bin\Debug\practicle0301.exe
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\bin\Debug\practicle0301.pdb
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+E:\Applied maths\Lab7SebastianKruzelPart2\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\practicle0301.exe
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\bin\Debug\practicle0301.exe
+D:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\bin\Debug\practicle0301.pdb
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\practicle0301.exe
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\bin\Debug\practicle0301.exe
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\bin\Debug\practicle0301.pdb
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+E:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\practicle0301.exe
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\practicle0301.pdb
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\bin\Debug\practicle0301.exe
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\bin\Debug\practicle0301.pdb
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7 starter1.csprojResolveAssemblyReference.cache
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7_starter1.Form1.resources
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7_starter1.Properties.Resources.resources
+F:\Applied maths\Lab7SebastianKruzelPart3\lab7 starter1\obj\x86\Debug\lab7 starter1.csproj.GenerateResource.Cache
